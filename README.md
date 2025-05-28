@@ -13,10 +13,10 @@ This simulator provides a GUI-based testing environment to:
 ## 🖼️ Screenshots
 
 ### Main Interface (Summary View)
-![Summary View](images/screenshot1.png)
+![Summary View](screenshot1.png)
 
 ### Test Details with Safe Mode
-![Test View](images/screenshot2.png)
+![Test View](screenshot2.png)
 
 ## ✨ Features
 
