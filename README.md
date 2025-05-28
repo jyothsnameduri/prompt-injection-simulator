@@ -10,6 +10,14 @@ This simulator provides a GUI-based testing environment to:
 - 📝 Document and analyze defense mechanisms
 - 📊 Generate detailed test reports
 
+## 🖼️ Screenshots
+
+### Main Interface (Summary View)
+![Summary View](images/summary_view.png)
+
+### Test Details with Safe Mode
+![Test View](images/test_view.png)
+
 ## ✨ Features
 
 - 📚 **Comprehensive Attack Library**: 32 pre-defined attack prompts across 8 categories
